@@ -1,3 +1,3 @@
 # Chess-clock
 
-## Still in progress
+## Still in progress...
